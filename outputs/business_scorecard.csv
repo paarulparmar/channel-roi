@@ -1,0 +1,10 @@
+acquisition_channel,customers,avg_cac,actual_hv_rate,predicted_hv_rate,avg_revenue,roi,expected_value_per_customer,efficiency_score,recommendation
+Email,15,14.6587,0.2,0.2719,565.666,37.5892,199.6738,13.6216,Scale Up
+Referral,24,17.9058,0.2083,0.3318,745.2979,40.6232,222.7574,12.4405,Scale Up
+Direct,56,21.5268,0.3214,0.3926,390.7982,17.154,246.1668,11.4354,Scale Up
+Organic Search,271,25.2868,0.2694,0.3191,763.8212,29.2063,217.8434,8.6149,Maintain
+Unknown,179,39.5461,0.3017,0.3476,1192.6464,29.1583,228.8116,5.7859,Maintain
+Other,21,44.519,0.2381,0.2285,387.2024,7.6975,182.9652,4.1098,Maintain
+Social,75,54.6011,0.2267,0.3012,578.9067,9.6025,210.9533,3.8635,Reduce / Optimize
+Paid Search,195,69.3003,0.3231,0.3822,783.5746,10.3069,242.1502,3.4942,Reduce / Optimize
+Display,6,59.43,0.1667,0.2278,153.8333,1.5885,182.6966,3.0741,Reduce / Optimize
